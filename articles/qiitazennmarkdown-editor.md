@@ -2,7 +2,7 @@
 title: "Qiita/Zennに直接投稿できて、最高に書きやすいMarkdown Editorを作った"
 emoji: "📝"
 type: "tech"
-topics: ["TypeScript", "React", "Zenn", "Markdown", "個人開発"]
+topics: ["React", "TypeScript", "Zenn", "個人開発", "Markdown"]
 published: false
 ---
 # Qiita/Zennに直接投稿できて、最高に書きやすいMarkdown Editorを作った
@@ -34,7 +34,7 @@ Markdownに慣れている人にも慣れていない人にも優しいツール
 [1. 太字 斜体 打ち消し](#1.-太字-斜体-打ち消し)
 [2. リンク](#2.-リンク)
 [3. 画像](#3.-画像)
-[4. リスト 番号付きリスト チェックボックス](#4.-リスト-番号付きリスト-チェックボックス)   
+[4. リスト 番号付きリスト チェックボックス](#4.-リスト-番号付きリスト-チェックボックス)
 [5. 見出し](#5.-見出し)
 [6. テーブル](#6.-テーブル)
 [7. 引用](#7.-引用)
@@ -56,11 +56,11 @@ Markdownに慣れている人にも慣れていない人にも優しいツール
 
 ## ツールバーの例
 
-![toolber.png](/images/qiitazennmarkdown-editor/c106e8c4-4611-4331-bb4c-f80b4017d793.png)
+![toolber.png](https://files.catbox.moe/e2zm0z.png)
 
 ## スラッシュコマンドの例
 
-![slash.png](/images/qiitazennmarkdown-editor/62b5fc1e-30f0-4377-88d5-8725bd457141.png)
+![slash.png](https://files.catbox.moe/dhkwxi.png)
 
 # 2. previewから見た目どおり編集する
 
@@ -70,21 +70,21 @@ Markdownに慣れている人にも慣れていない人にも優しいツール
 
 ## preview編集の例
 
-![preview_toolber.png](/images/qiitazennmarkdown-editor/7421a358-4552-4b11-b139-3fbadbc27112.png)
+![preview_toolber.png](https://files.catbox.moe/i46msb.png)
 
 ## 範囲選択の例
 
-![select.png](/images/qiitazennmarkdown-editor/29959d1b-d57d-4936-aae7-d0f73523ebfd.png)
+![select.png](https://files.catbox.moe/kotik5.png)
 
 # 3. qiitaもしくはzennに投稿する
 
 書いた記事を直接、qiita、zennに投稿することも可能です。
-  qiita、zenn(github連携)のアカウントがあれば直接投稿できます。
-  セキュリティが不安な方はmarkdownをコピーやDLすることも可能です。
+qiita、zenn(github連携)のアカウントがあれば直接投稿できます。
+セキュリティが不安な方はmarkdownをコピーやDLすることも可能です。
 
 ## qiita投稿の例
 
-![qiita_publish.png](/images/qiitazennmarkdown-editor/f13170fa-6ce5-4e6b-8391-9554e9f1fc1d.png)
+![qiita_publish.png](https://files.catbox.moe/vs50lr.png)
 
 # 対応しているmarkdown
 # 1. 太字 斜体 打ち消し
@@ -110,7 +110,7 @@ editor側、preview側から画像をアップロードでき、Altや大きさ�
 
 ## 画像編集の例
 
-![no_markdown_icon.png](/images/qiitazennmarkdown-editor/d9434884-c035-42d5-9bf4-280214de235b.png =284x)
+![no_markdown_icon.png](https://files.catbox.moe/h01yr9.png =284x)
 
 # 4. リスト 番号付きリスト チェックボックス
 
@@ -133,7 +133,7 @@ preview側のテーブルをクリックすると編集できます。
 
 ## previewでのテーブル編集の例
 
-![edit_table.png](/images/qiitazennmarkdown-editor/4747bf1b-aede-439f-8245-4769fbcd5b53.png)
+![edit_table.png](https://files.catbox.moe/3jq1a0.png)
 
 # 7. 引用
 
@@ -164,11 +164,11 @@ qiitaとzennではシンタックスハイライトが適用されます。
 
 ## コードブロックの例
 
-![codeblock.png](/images/qiitazennmarkdown-editor/54ba47d5-f66d-4e97-98aa-dc22601efc44.png)
+![codeblock.png](https://files.catbox.moe/v32by0.png)
 
 ## シンタックスハイライトの例
 
-![syntax.png](/images/qiitazennmarkdown-editor/22c99ae5-a9f9-40a0-9524-2f990d234f97.png)
+![syntax.png](https://files.catbox.moe/hcbfab.png)
 
 # 10. 水平線
 
